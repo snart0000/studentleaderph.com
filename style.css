@@ -1,0 +1,33 @@
+body{
+	background-image: url(Bg.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+h1{
+	text-align: left;
+	color: gold;
+	stroke-opacity: 100%;
+	stroke-width: 15px;
+	padding-top: 0%;
+	margin-left: 0%;
+	width: 80%;
+	font-family: lucida Sans;
+	font-size: 6;
+}
+h2{
+	font-family: sans-serif;
+	color: grey;
+}
+p{
+	text-align: justify;
+	color: white;
+	font-family: lucida Sans;
+	font-size: 5;
+}
+ul{
+	font-family:lucida Sans;
+	color: white;
+}
+
+
+
